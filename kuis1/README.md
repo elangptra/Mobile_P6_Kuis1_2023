@@ -13,7 +13,7 @@ NIM: 2141720074 </b>
 
 <b>1. Tugas 1</b>
 
-![Alt text](/kuis1/images/image.png)
+![Alt text](images/image.png)
 
 <b>Jawab:</b>
 
@@ -26,7 +26,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-11.png)
+![Alt text](images/image-11.png)
 
 c. Penjelasan
 
@@ -34,7 +34,7 @@ Kode diatas digunakan untuk menampilkan "Hello world!" dengan menggunakan fungsi
 
 <b>2. Tugas 2</b>
 
-![Alt text](/kuis1/images/image-1.png)
+![Alt text](images/image-1.png)
 
 <b>Jawab:</b>
 
@@ -51,7 +51,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-12.png)
+![Alt text](images/image-12.png)
 
 c. Penjelasan
 
@@ -59,7 +59,7 @@ Kode diatas digunakan untuk melakukan print() pada variabel name yang bertipe St
 
 <b>3. Tugas 3</b>
 
-![Alt text](/kuis1/images/image-2.png)
+![Alt text](images/image-2.png)
 
 <b>Jawab:</b>
 
@@ -76,7 +76,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-13.png)
+![Alt text](images/image-13.png)
 
 c. Penjelasan
 
@@ -86,7 +86,7 @@ Kode diatas digunakan untuk menampilkan variabel firstName (Elang) dengan tipe d
 
 <b>4. Tugas 4-a</b>
 
-![Alt text](/kuis1/images/image-3.png)
+![Alt text](images/image-3.png)
 
 <b>Jawab:</b>
 
@@ -106,7 +106,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-14.png)
+![Alt text](images/image-14.png)
 
 c. Penjelasan
 
@@ -114,7 +114,7 @@ Kode diatas melakukan pembuatan 2 buah array (array1 dan array2) yang memiliki n
 
 <b>5. Tugas 4-b</b>
 
-![Alt text](/kuis1/images/image-4.png)
+![Alt text](images/image-4.png)
 
 <b>Jawab:</b>
 
@@ -131,7 +131,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-15.png)
+![Alt text](images/image-15.png)
 
 c. Penjelasan
 
@@ -141,7 +141,7 @@ Kode diatas membuat sebuah variabel yang bertipe integer(number1) yang memiliki 
 
 <b>6. Tugas 5</b>
 
-![Alt text](/kuis1/images/image-5.png)
+![Alt text](images/image-5.png)
 
 <b>Jawab:</b>
 
@@ -158,7 +158,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-16.png)
+![Alt text](images/image-16.png)
 
 c. Penjelasan
 
@@ -168,7 +168,7 @@ kode diatas membuat sebuah variabel number dengan tipe num yang memiliki nilai a
 
 <b>7. Tugas 6</b>
 
-![Alt text](/kuis1/images/image-6.png)
+![Alt text](images/image-6.png)
 
 <b>Jawab:</b>
 
@@ -186,7 +186,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-17.png)
+![Alt text](images/image-17.png)
 
 c. Penjelasan
 
@@ -196,7 +196,7 @@ Kode program diatas membuat dua buah variabel String dengan nama firstName (Elan
 
 <b>8. Tugas 7</b>
 
-![Alt text](/kuis1/images/image-7.png)
+![Alt text](images/image-7.png)
 
 <b>Jawab:</b>
 
@@ -210,19 +210,19 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-18.png)
+![Alt text](images/image-18.png)
 
 c. Penjelasan
 
 Kode diatas membuat sebuah variabel text yang memiliki isi:
 
-![Alt text](/kuis1/images/image-19.png)
+![Alt text](images/image-19.png)
 
 Pada kode tersebut, terdapat 3 buah backslash yang dimana backslash tersebut berguna untuk membuat tanda petik (') dan tanda dolar($) sebelum tanda petik penutup (setelah $sekali) menjadi terbaca dan tidak diidentifikasi sebagai tanda petik penutup sehingga dapat menghasilkan output seperti pada gambar diatas.
 
 <b>9. Tugas 8</b>
 
-![Alt text](/kuis1/images/image-8.png)
+![Alt text](images/image-8.png)
 
 <b>Jawab:</b>
 
@@ -241,7 +241,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-20.png)
+![Alt text](images/image-20.png)
 
 c. Penjelasan
 
@@ -249,7 +249,7 @@ Kode diatas membuat 2 buah variabel (name1 dan name2) yang dimana name1 adalah h
 
 <b>10. Tugas 9</b>
 
-![Alt text](/kuis1/images/image-9.png)
+![Alt text](images/image-9.png)
 
 <b>Jawab:</b>
 
@@ -268,7 +268,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-21.png)
+![Alt text](images/image-21.png)
 
 c. Penjelasan
 
@@ -276,7 +276,7 @@ Kode diatas hampir sama dengan tugas sebelumnya. Perbedaannya hanya ada pada bag
 
 <b>11. Tugas 10</b>
 
-![Alt text](/kuis1/images/image-10.png)
+![Alt text](images/image-10.png)
 
 <b>Jawab:</b>
 
@@ -294,7 +294,7 @@ a. Kode Program
 
 b. Hasil
 
-![Alt text](/kuis1/images/image-22.png)
+![Alt text](images/image-22.png)
 
 c. Penjelasan
 
